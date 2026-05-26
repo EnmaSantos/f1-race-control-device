@@ -1,0 +1,58 @@
+[
+  {
+    "event_type": "GREEN_FLAG",
+    "message": "Race start: green flag",
+    "timestamp": "2024-05-26T13:00:00Z",
+    "priority": "low",
+    "color": "green"
+  },
+  {
+    "event_type": "YELLOW_FLAG",
+    "message": "Yellow flag in sector 2",
+    "timestamp": "2024-05-26T13:08:30Z",
+    "priority": "medium",
+    "color": "yellow"
+  },
+  {
+    "event_type": "SAFETY_CAR",
+    "message": "Safety Car deployed",
+    "timestamp": "2024-05-26T13:15:42Z",
+    "priority": "high",
+    "color": "yellow_blue"
+  },
+  {
+    "event_type": "VSC",
+    "message": "Virtual Safety Car ending",
+    "timestamp": "2024-05-26T13:21:00Z",
+    "priority": "medium",
+    "color": "yellow"
+  },
+  {
+    "event_type": "FASTEST_LAP",
+    "message": "Fastest lap by favorite driver",
+    "timestamp": "2024-05-26T13:38:18Z",
+    "priority": "medium",
+    "color": "purple"
+  },
+  {
+    "event_type": "PIT_STOP",
+    "message": "Favorite driver pit stop completed",
+    "timestamp": "2024-05-26T13:44:12Z",
+    "priority": "medium",
+    "color": "team"
+  },
+  {
+    "event_type": "RED_FLAG",
+    "message": "Red flag: session stopped",
+    "timestamp": "2024-05-26T14:02:05Z",
+    "priority": "critical",
+    "color": "red"
+  },
+  {
+    "event_type": "RACE_FINISH",
+    "message": "Chequered flag: race finished",
+    "timestamp": "2024-05-26T14:35:00Z",
+    "priority": "high",
+    "color": "checkered"
+  }
+]

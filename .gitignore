@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Local firmware config
+firmware/esp32/include/config.h
+
+# OS/editor
+.DS_Store
+*.swp
