@@ -49,6 +49,7 @@ f1-race-control-device/
 ├── docs/
 │   ├── project-plan.md
 │   ├── hardware.md
+│   ├── shopping-list.md
 │   └── api-notes.md
 ├── firmware/
 │   └── esp32/
